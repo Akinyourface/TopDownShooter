@@ -1,0 +1,23 @@
+Last Version 0.1
+- Started Documenation to the changes that have occuring during the last version.
+- Planned a text parser to displacy the contents of this file in the console output at runtime.
+- Planned on adding a few more enemy types and maybe finding a more efficient way of camera movement and the arrangement of different elements in a pygame.sprite.Group class
+
+Latest Version 0.2
+- Contunued documentation on the game
+- Completed the text parser and the contents of this text file is now displayed in the console window at startup.
+- Added the barnacle enemy. A giant shield as its exteror and 4 'tenticles', which fire projectiles at the enemy.
+- Implemented the new camera movement and simplified the code a bit more, planning on doing it some more to decrease time to runtime.
+- Implemented an inventory, and it displayed in the top left corner your current weapon.
+- Planned to add destructable blocks, and weapons which can destroy them.
+
+Latest Version 0.2.5
+- Added music(Port of Adia theme from Turok 2)
+- Updated art? Maybe it looks less eye rape now
+- still planning on a rocket launcher and destructable blocks
+
+Latest Version 0.3.0
+- Started work after an absense from developing.
+- Added a SoundManager class and looking to find a way to add support for several sounds at once, I think I have a solution.
+- Added rocket luncher and destructable blocks, I still have to create a sprite for the destructable block, and work out the rocket launcher because its not firing.
+- Planned on a pause screen, which would be implemented with a gameState class.
